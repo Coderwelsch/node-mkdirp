@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 const usage = () => `
 usage: mkdirp [DIR1,DIR2..] {OPTIONS}
 
